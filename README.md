@@ -1,55 +1,10 @@
-# Project-Log
+# Project Log
 
-下面的每一个项目，都是一个仓库。有些隐藏起来了，你就找不到。
+本仓库里的独立对话笔记已迁移至统一归档仓库：
 
-哎呀，这些全部都是vibe coding，快速开发，就不要讲究什么质量啦！
+[Chat with ChatGPT — 人生与认知](https://github.com/ShenFengyue/Chat-with-ChatGPT/tree/main/人生与认知)
 
-这个仓库里，除了这篇README之外的所有md文件，都是我和ChatGPT聊天时，我觉得它说的比较有价值的话，就记录下来了。
+- [宏大目标与纠错](https://github.com/ShenFengyue/Chat-with-ChatGPT/blob/main/人生与认知/复盘/2026-10-16-宏大目标与纠错.md)
+- [规则、权力与系统设计](https://github.com/ShenFengyue/Chat-with-ChatGPT/blob/main/人生与认知/系统思考/2026-10-17-规则、权力与系统设计.md)
 
----
-
-**006 Life-Manager**
-
-2026-10-15
-
-顶级工具，用于持续推进现实 + 个人精力资源调度。
-
----
-
-**005 coding-notes**
-
-2026-10-14
-
-用于存放我自己的每日技术笔记。
-
----
-
-**004 Flash-Cards**
-
-2026-10-14
-
-社交直觉闪卡。
-
----
-
-**003 three-axes**
-
-2026-10-13
-
-女性三维分析工具。
-
----
-
-**002 Pick-Up Girls**
-
-2026-10-13
-
-把妹聊天模拟器。
-
----
-
-**001 Real-Social**
-
-2026-10-11
-
-真实社交模拟器。
+今后“存到 GitHub”的独立文档统一进入 Chat with ChatGPT。
